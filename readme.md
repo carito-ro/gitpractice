@@ -16,3 +16,5 @@ La pagina de acerca de
 ## Juan page
 
 La colaboración de Juan al proyecto se encuentra en juan.html
+
+# Diplomatura Full-Stack by Pantagonian and UNCo
